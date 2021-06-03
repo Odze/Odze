@@ -1,5 +1,11 @@
 ### Hi, my name is Oskars Kapteinis! 👋 
 
+I'm an aspiring C# software developer.
+
+I’m currently working on new projects to hone my skills.
+
+E-mail - oskarskapteinis14@gmail.com
+Linkedin - https://www.linkedin.com/in/oskars-kapteinis/
 
 <!--
 **Odze/Odze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
