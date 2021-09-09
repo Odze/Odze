@@ -1,10 +1,8 @@
 ### Hi, my name is Oskars Kapteinis! 👋 
 
-I'm an aspiring C# software developer.
+I'm an aspiring Game (unity) / Software developer.
 
 I’m currently working on new projects to hone my skills.
-
-I’m currently learning Unity.
 
 E-mail - oskarskapteinis14@gmail.com
 Linkedin - https://www.linkedin.com/in/oskars-kapteinis/
