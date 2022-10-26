@@ -2,7 +2,7 @@
 
 I'm an aspiring Unity & C# developer.
 
-Currently working as Unity & C# Developer, But I am ready for new challenges.
+My main focus is Unity & C# Developement, but I love to challenge myself with different stuff.
 
 E-mail - oskarskapteinis14@gmail.com
 Linkedin - https://www.linkedin.com/in/oskars-kapteinis/
