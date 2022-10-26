@@ -1,6 +1,6 @@
 ### Hi, my name is Oskars Kapteinis! 👋 
 
-I'm an aspiring Game (unity) / Software developer.
+I'm an aspiring Unity & C# developer.
 
 I’m currently working on new projects to hone my skills.
 
